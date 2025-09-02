@@ -1,7 +1,3 @@
-Got it bhai 👌
-Tumhe **Overview** chahiye jo ekdum **professional + eye-catching** lage, na casual ho na boring. Ye lo ek refined version jo GitHub pe readers ko instantly attract karega:
-
----
 
 ## 📄 Overview
 
