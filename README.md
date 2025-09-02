@@ -21,11 +21,6 @@ This release represents the **official debut** of VoxNova Studio — setting the
 * Redefines → instead of "provides"
 
 
-# VoxNova_Studio  
-
-Turn your words into **studio-quality, human-like voices** in seconds.  
-A high-performance Text-to-Speech (TTS) platform built with Python.  
-
-
-📥 Download  
-➡️ [Get VoxNova Studio v1.0.0](https://github.com/MelioraNexus/VoxNova-Studio/releases/tag/v1.0.0) — Ready-to-use Windows executable  
+## 📥 Download  
+➡️ [Get VoxNova Studio v1.0.0](https://github.com/MelioraNexus/VoxNova-Studio/releases/tag/v1.0.0)  
+No setup, no hassle — simply **download, run, and create voices instantly**.  
